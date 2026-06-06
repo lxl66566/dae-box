@@ -1,0 +1,6 @@
+/target
+*.db
+/*.dae
+/*.json
+.vscode
+.opencode
