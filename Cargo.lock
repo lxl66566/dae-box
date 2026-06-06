@@ -469,8 +469,7 @@ dependencies = [
 [[package]]
 name = "sing-dae"
 version = "0.1.1"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "c3b7a103a04dca458b085542bf8df0f891351b59289546293a5fabdd999ca8ce"
+source = "git+https://github.com/lxl66566/sing-dae#3ebad6ae9a884b1729e01a803ef37052a3d9961a"
 dependencies = [
  "pest",
  "pest_derive",
